@@ -1,0 +1,17 @@
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.exe.config
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.exe
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.pdb
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.xml
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc_de_memorie.Form1.resources
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc_de_memorie.Resources.resources
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.vbproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.exe
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.xml
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.pdb
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc_de_memorie.Meniu.resources
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc_de_memorie.Scor.resources
+C:\Users\Maria\Desktop\PROIECT PAG\Proiect\Joc de memorie\Joc de memorie\obj\Debug\Joc_de_memorie.Form2.resources
+C:\Users\Maria\Desktop\PROIECT PAG\Joc de memorie\Joc de memorie\bin\Debug\Joc de memorie.exe.config
+C:\Users\Maria\Desktop\PROIECT PAG\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.exe
+C:\Users\Maria\Desktop\PROIECT PAG\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.xml
+C:\Users\Maria\Desktop\PROIECT PAG\Joc de memorie\Joc de memorie\obj\Debug\Joc de memorie.pdb
